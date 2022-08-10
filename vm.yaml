@@ -1,0 +1,185 @@
+vms:
+    ha-node1-U-30-194:
+     ip: 192.168.30.194
+     user: sepon
+     pass: 1234
+    ha2-node1-U-30-198:
+     ip: 192.168.30.198
+     user: sepon
+     pass: 1234
+    ha3-node1-U-30.201:
+     ip: 192.168.30.201
+     user: sepon
+     pass: 1234
+    ha5-node1-30.232:
+     ip: 192.168.30.232
+     user: sepon
+     pass: 1234
+    ha6-node1-30.241:
+     ip: 192.168.30.241
+     user: sepon
+     pass: 1234
+    ha7-node1-31.61:
+     ip: 192.168.31.61
+     user: sepon
+     pass: 1234
+    node-161:
+     ip: 192.168.31.161
+     user: sepon
+     pass: 1234
+    node-197:
+     ip: 192.168.30.197
+     user: sepon
+     pass: 1234
+    node-208:
+     ip: 192.168.30.208
+     user: sepon
+     pass: 1234
+    node-209:
+     ip: 192.168.30.209
+     user: sepon
+     pass: 1234
+    node-210:
+     ip: 192.168.30.210
+     user: sepon
+     pass: 1234
+    node-211:
+     ip: 192.168.30.211
+     user: sepon
+     pass: 1234
+    node-218:
+     ip: 192.168.30.218
+     user: sepon
+     pass: 1234
+    node-228:
+     ip: 192.168.30.228
+     user: sepon
+     pass: 1234
+    node-30.214:
+     ip: 192.168.30.214
+     user: sepon
+     pass: 1234
+    node-30.217:
+     ip: 192.168.30.217
+     user: sepon
+     pass: 1234
+    node-31.11:
+     ip: 192.168.31.11
+     user: sepon
+     pass: 1234
+    node-31.127:
+     ip: 192.168.31.127
+     user: sepon
+     pass: 1234
+    node-31.133:
+     ip: 192.168.31.133
+     user: sepon
+     pass: 1234
+    node-31.139:
+     ip: 192.168.31.139
+     user: sepon
+     pass: 1234
+    node-31.71:
+     ip: 192.168.31.71
+     user: sepon
+     pass: 1234
+    perf-node-217:
+     ip: 192.168.31.217
+     user: sepon
+     pass: 1234
+    perf-node-218:
+     ip: 192.168.31.218
+     user: sepon
+     pass: 1234
+    perf-node-219:
+     ip: 192.168.31.219
+     user: sepon
+     pass: 1234
+    node-61:
+     ip: 192.168.31.61
+     user: sepon
+     pass: 1234
+    mta-analyzer-170.125:
+     ip: 192.168.170.125
+     user: sepon
+     pass: 1234
+    urla-node-25:
+     ip: 192.168.30.25
+     user: sepon
+     pass: 1234
+    Build-Jenkins-U-31.221:
+     ip: 192.168.31.221
+     user: sepon
+     pass: 1234
+    Build-U-31.86:
+     ip: 192.168.31.86
+     user: sepon
+     pass: 1234
+    cht-node-101:
+     ip: 192.168.30.101
+     user: sepon
+     pass: 1234
+    core-node231:
+     ip: 192.168.31.231
+     user: sepon
+     pass: 1234
+    ha4-node-204:
+     ip: 192.168.170.204
+     user: sepon
+     pass: 1234
+    mta-analyzer-30.125:
+     ip: 192.168.30.125
+     user: sepon
+     pass: 1234
+    node-71.78:
+     ip: 192.168.71.78
+     user: sepon
+     pass: 1234
+    node-U-137:
+     ip: 192.168.170.137
+     user: sepon
+     pass: 1234
+    offline-30.222:
+     ip: 192.168.30.222
+     user: sepon
+     pass: 1234
+    perform-test-31.184:
+     ip: 192.168.31.184
+     user: sepon
+     pass: 1234
+    seba-anydesk-port-forwards-31.224:
+     ip: 192.168.31.224
+     user: sepon
+     pass: 1234
+    Tibit-31.55:
+     ip: 192.168.31.55
+     user: sepon
+     pass: 1234
+    urla-bng-221:
+     ip: 192.168.31.221
+     user: sepon
+     pass: 1234
+    urla-node-11:
+     ip: 192.168.170.11
+     user: sepon
+     pass: 1234
+    urla-node-14:
+     ip: 192.168.30.14
+     user: sepon
+     pass: 1234
+    urla-node-21:
+     ip: 192.168.71.21
+     user: sepon
+     pass: 1234
+    urla-node-24:
+     ip: 192.168.170.24
+     user: sepon
+     pass: 1234
+    win-server-31.123:
+     ip: 192.168.31.123
+     user: sepon
+     pass: 1234
+    win10-ozge-31.67:
+     ip: 192.168.31.67
+     user: sepon
+     pass: 1234
